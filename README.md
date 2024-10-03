@@ -23,5 +23,5 @@ O robô de balanço utiliza o **sensor giroscópio** para medir constantemente o
 
 Os dois **motores de passo** trabalham em conjunto para realizar os ajustes necessários e manter o robô equilibrado, evitando quedas.
 
-![Robô de Balanço](https://github.com/pedronetto12/Robo-de-balanco/blob/main/robo.jpeg)
+![Robô de Balanço](https://github.com/pedronetto12/Robo-de-balanco/blob/main/fotorobo.jpeg)
 
