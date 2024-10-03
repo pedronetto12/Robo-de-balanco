@@ -23,17 +23,4 @@ O robô de balanço utiliza o **sensor giroscópio** para medir constantemente o
 
 Os dois **motores de passo** trabalham em conjunto para realizar os ajustes necessários e manter o robô equilibrado, evitando quedas.
 
-## Como Usar
-
-1. Verifique as conexões dos componentes:
-   - Controlador PID
-   - Sensor giroscópio
-   - Motores de passo
-   - Drivers de motor de passo
-
-2. Faça o upload do código para o microcontrolador utilizado.
-
-3. Ligue o robô e observe como ele se ajusta automaticamente, mantendo-se equilibrado conforme o **controlador PID** processa os dados de inclinação.
-
----
 
